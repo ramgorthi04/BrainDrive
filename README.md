@@ -6,4 +6,4 @@ To wire the mindflex eeg headset, look on this website:http://www.frontiernerds.
 For this project you will need the following: the Arduino Uno, the mindflex headset with neurosky chip, and the arduino software. Also, 
 you will need a computer, which, if you don't have, well, that's just sad.
 
-To access the serial moniter, open the BrainDrive Folder in Processing.
+To access the serial moniter, open the BrainGrapher folder in Processing.
